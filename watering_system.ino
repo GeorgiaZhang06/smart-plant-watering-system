@@ -1,4 +1,4 @@
-const int moisturePin = A0;   // Soil moisture sensor on A0
+const int moisturePin = A0;   // Soil moisture sensor connected to A0
 const int motorPin = 8;       // Transistor control pin used for motor switch
 
 const int moistureThreshold = 600;  //Soil moisture threshold
